@@ -1,4 +1,4 @@
-# Hi, I'm Sabarish Raja 👋
+# Sabarish Raja
 
 **Data & AI Engineer** · MS in Data Science @ Illinois Institute of Technology, Chicago
 
@@ -6,7 +6,7 @@ I build data platforms and AI systems that turn messy, multi-source data into an
 
 ---
 
-## 🔭 What I work on
+## What I work on
 
 - **Data pipelines & warehousing** — API ingestion (GA4, Search Console, Meilisearch), idempotent upserts, scheduled syncs with GitHub Actions, PostgreSQL/Supabase modeling
 - **LLM application engineering** — text-to-SQL query engines, structured vision extraction, prompt caching, multi-step agent orchestration with the Claude API
@@ -14,7 +14,7 @@ I build data platforms and AI systems that turn messy, multi-source data into an
 
 ---
 
-## 🚀 Featured work
+## Featured work
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
@@ -25,7 +25,7 @@ I build data platforms and AI systems that turn messy, multi-source data into an
 
 ---
 
-## 🛠️ Tech I use
+## Tech I use
 
 **Languages** — Python · TypeScript/JavaScript · SQL
 
@@ -37,7 +37,7 @@ I build data platforms and AI systems that turn messy, multi-source data into an
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=sabarishraja&show_icons=true&theme=default&rank_icon=github&hide_border=true" height="160" alt="GitHub stats" />
@@ -46,10 +46,10 @@ I build data platforms and AI systems that turn messy, multi-source data into an
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sabarishraja03-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabarishraja03)
 [![Medium](https://img.shields.io/badge/Medium-@sabarishds03-12100E?logo=medium&logoColor=white)](https://medium.com/@sabarishds03)
 [![Email](https://img.shields.io/badge/Email-skarthikeyan1@hawk.illinoistech.edu-EA4335?logo=gmail&logoColor=white)](mailto:skarthikeyan1@hawk.illinoistech.edu)
 
-> 💬 Open to Data Engineering, AI Engineering, and ML platform roles — and always glad to talk shop about LLM systems in production.
+Open to Data Engineering, AI Engineering, and ML platform roles.
